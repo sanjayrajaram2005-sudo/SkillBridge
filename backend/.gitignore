@@ -1,0 +1,28 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+.venv/
+
+# SQLite database
+*.db
+
+# Node
+node_modules/
+
+# Vite build
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
